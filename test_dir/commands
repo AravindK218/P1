@@ -1,0 +1,10 @@
+git --version
+git add
+git add stage
+git commit
+git push origin
+git reset
+git show
+git reset @~
+git reset filename
+
